@@ -1,3 +1,5 @@
+##中文注释
+
 ## Build
 
 For linux, install autoconf first for jemalloc
