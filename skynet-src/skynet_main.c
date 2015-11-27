@@ -96,6 +96,7 @@ static const char * load_config = "\
 	return result\
 ";
 
+// 入口函数
 int
 main(int argc, char *argv[]) {
 	const char * config_file = NULL ;
